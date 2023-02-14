@@ -1,8 +1,8 @@
 <?php
 
-namespace K3\Tests;
+namespace Esc\Tests;
 
-use K3\RequestParams;
+use Esc\RequestParams;
 use PHPUnit\Framework\TestCase;
 use Prophecy\Argument;
 use Prophecy\Prophet;

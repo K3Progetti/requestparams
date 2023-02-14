@@ -1,6 +1,6 @@
 <?php
 
-namespace K3;
+namespace Esc;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag;

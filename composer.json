@@ -1,5 +1,5 @@
 {
-    "name": "K3Progetti/requestparams",
+    "name": "k3progetti/requestparams",
     "type": "library",
     "description": "Simple class for request parameters handling",
     "keywords": [
@@ -8,12 +8,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "K3\\": "src/"
+            "Esc\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "K3\\Tests\\": "tests"
+            "Esc\\Tests\\": "tests"
         }
     },
     "require": {
